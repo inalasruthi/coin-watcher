@@ -19,9 +19,8 @@ Helps in budgeting, monitoring spending habits, and promoting financial awarenes
 ## 🛠 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend (Optional):** Node.js + Express / Firebase  
-- **Database (Optional):** LocalStorage / MongoDB / Firebase  
-- **Charts:** Chart.js *(optional)*  
+- **Database (Optional):** LocalStorage 
+  
 
 ---
 
