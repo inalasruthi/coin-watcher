@@ -1,73 +1,33 @@
-# Welcome to your Lovable project
+# 💰 Daily Expense Tracker
 
-## Project info
+A simple yet practical **web application** that allows users to **track, categorize, and visualize** their daily expenses.  
+Helps in budgeting, monitoring spending habits, and promoting financial awareness.
 
-**URL**: https://lovable.dev/projects/0fd12638-4577-4a5c-864a-6cab360ce3c5
+---
 
-## How can I edit this code?
+## 📌 Features
 
-There are several ways of editing your application.
+- **Add Expenses** – Title, Amount, Category, Date  
+- **Expense List View** – View all added expenses  
+- **Filters** – Filter expenses by category or date  
+- **Total Calculation** – Shows total expenses in real-time  
+- **Data Visualization** – Pie/Bar chart of spending patterns using Chart.js *(optional)*  
+- **Data Persistence** – LocalStorage for offline use (or cloud DB in advanced version)  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0fd12638-4577-4a5c-864a-6cab360ce3c5) and start prompting.
+## 🛠 Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend (Optional):** Node.js + Express / Firebase  
+- **Database (Optional):** LocalStorage / MongoDB / Firebase  
+- **Charts:** Chart.js *(optional)*  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🚀 Installation & Setup
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0fd12638-4577-4a5c-864a-6cab360ce3c5) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/inalsruthi/coinwatcher.git
+   cd daily-expense-tracker
