@@ -52,6 +52,18 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				finance: {
+					green: 'hsl(var(--finance-green))',
+					'green-light': 'hsl(var(--finance-green-light))',
+					blue: 'hsl(var(--finance-blue))',
+					'blue-light': 'hsl(var(--finance-blue-light))',
+					orange: 'hsl(var(--finance-orange))',
+					'orange-light': 'hsl(var(--finance-orange-light))',
+					purple: 'hsl(var(--finance-purple))',
+					'purple-light': 'hsl(var(--finance-purple-light))',
+					red: 'hsl(var(--finance-red))',
+					'red-light': 'hsl(var(--finance-red-light))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
@@ -62,6 +74,16 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				}
+			},
+			backgroundImage: {
+				'gradient-primary': 'var(--gradient-primary)',
+				'gradient-card': 'var(--gradient-card)',
+				'gradient-expense': 'var(--gradient-expense)'
+			},
+			boxShadow: {
+				'soft': 'var(--shadow-soft)',
+				'card': 'var(--shadow-card)',
+				'elevated': 'var(--shadow-elevated)'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
