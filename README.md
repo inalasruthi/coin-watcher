@@ -19,8 +19,7 @@ Helps in budgeting, monitoring spending habits, and promoting financial awarenes
 ## 🛠 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Database (Optional):** LocalStorage 
-  
+- **Database (Optional):**Will connect to supabase soon
 
 ---
 
